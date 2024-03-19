@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Way9e
-- 👀 I’m interested in mainly Python and C# but I'm starting to get into front-end development :p
+- 👀 I’m interested in Python and C# mainly, but I'm starting to get into front-end development :p
 - 🌱 I’m currently learning HTML, CSS, JavaScript, BootStrap and Node.JS
 - 📫 Send me an email (anaraquelvinhasreis02@gmail.com) if you wanna reach me
 - 😄 Pronouns: She/Her
